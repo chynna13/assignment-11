@@ -1,0 +1,30 @@
+input {
+  padding-top: 30px;
+  width: 500px;
+  height: 60px;
+  font-size: 40px;
+  border: 0;
+}
+
+body {
+  background: #95BCFE;
+  padding-left: 15px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+li {
+  text-align: left;
+  font-size: 40px;
+  margin: 0;
+}
+
+button{
+    background: #95FEBC;
+
+}
+
+.strike {
+    text-decoration-line: line-through;
+    font-weight: 540;
+}
